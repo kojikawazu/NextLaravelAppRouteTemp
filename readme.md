@@ -1,4 +1,4 @@
-# Bookアプリ(予定)
+# Next.js(AppRouter) + Laravel用のテンプレート
 ---
 
 - フロントエンド:Next.js(AppRouter)
